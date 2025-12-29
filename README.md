@@ -110,11 +110,13 @@ Modifica el texto directamente en `index.html`. Todas las secciones están clara
 
 ## 📝 Licencia
 
-Este proyecto es de código abierto y está disponible para uso personal y comercial.
+Este es un proyecto propietario desarrollado para uso interno de la empresa. Todos los derechos reservados.
 
 ## 👨‍💻 Créditos
 
 Diseñado y desarrollado como proyecto de portafolio profesional.
+
+**Desarrollado por:** Andrés Camacho Sánchez
 
 ---
 
